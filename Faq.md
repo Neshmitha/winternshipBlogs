@@ -20,7 +20,7 @@ order: 2
 11. [GitHub Assignment Submission](#11-github-assignment-submission)
 12. [Health Points System](#12-health-points-system)
 13. [MERN Case Studies](#13-mern-case-studies)
-
+14. [Viva](#14-viva)
 ---
 
 ## 1. Internship Overview
@@ -45,14 +45,24 @@ Internship hours are scheduled between **9:00 AM and 6:00 PM**, from **Monday to
 The program will be conducted strictly in **online mode**.
 
 **2.2 Is my attendance at online sessions compulsory?**  
-Yes, attendance at every online session is **mandatory**.  
-Up to **two warnings** may be issued. Further violations may result in **termination**.
+
+Yes, attendance at every online session is **mandatory**. Attendance will be counted **only if your camera remains ON for the entire Zoom session**. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
+
+Please note that attendance recorded until now (30.12.2025) is **provisional** and may be reviewed based on camera activity, consistency, and overall participation.
+
+Up to **two warnings** may be issued for non-compliance. Further violations may result in **termination**.
+
 
 **2.3 I registered using one name but attend sessions with a different name or email. Will this affect my attendance?**  
 Yes. You must attend using the **same name and email ID** used during NPTEL registration.
 
 **2.4 Should I fill the attendance sheet attached to the NPTEL offer letter?**  
-Please **clarify this directly with the NPTEL team**.
+Yes. You must fill the **Google Form provided in the NPTEL offer letter** **every day** during your internship (**except Sundays**).
+
+Guidelines:
+- Fill in all required details **daily**
+- The form should be preferably filled **in the evening**, after completing the day’s work
+- This form is **mandatory** for marking your attendance on **NPTEL’s side** throughout the internship
 
 ---
 
@@ -168,6 +178,33 @@ In the meantime, you may try the following steps once:
 2. **Log out**, clear your browser cache, and **log in again**
 
 If the issue still persists after these steps, no further action is required from your side. Your course completion status will be corrected by the support team shortly.
+
+**9.7 What is the deadline to complete the course from the ViBe platform?**  
+
+The course does not have a single hard deadline. Instead, it is divided into **progress-based milestones**, where learners are required to reach a certain percentage of completion by specific dates.  
+**Failure to meet these milestones may lead to termination from the program.**
+
+The milestones are as follows:
+
+| Date   | Required ViBe Progress (≥) |
+|--------|----------------------------|
+| 29 Dec | 20% |
+| 30 Dec | 30% |
+| 31 Dec | 40% |
+| 01 Jan | 50% |
+| 02 Jan | 60% |
+| 03 Jan | 70% |
+| 04 Jan | 80% |
+| 05 Jan | 90% |
+| 06 Jan | 100% |
+
+However, **do not focus only on deadlines**. Meeting milestones is **not the ultimate goal** of this course.  
+The primary objective is to **introduce you to the MERN stack** and help you build a strong foundation in its core technical concepts — not to create unnecessary pressure.
+
+These milestones are set **only to ensure that learners do not fall behind**, to maintain **steady progress**, and to encourage **healthy competition** while ensuring everyone improves consistently each day.
+
+Treat your learning journey as a **marathon, not a race**.
+
 
 ---
 
@@ -353,4 +390,78 @@ This collaborative approach is encouraged to enhance learning and problem-solvin
 You can track your submission status, access the leaderboard, and view the dashboard by visiting the following link:  
 https://docs.google.com/spreadsheets/d/1vOQY7BYRMmNiSCBkzrYR-b-1r54jViEmzvL9nD12PoI/edit?gid=2050387016#gid=2050387016
 
+**13.7 What is the deadline to complete the MERN case studies?**  
 
+The **hard deadline** to complete all MERN case studies is **31st December 2025 (Wednesday)**.
+
+However, do **not focus solely on the deadline**. Meeting the deadline is **not the ultimate goal** of these case studies.  
+Their primary purpose is to give you exposure to **collaborative problem-solving**, **hands-on coding**, and to help **optimize your learning journey**, rather than forcing you to rush through tasks.
+
+The deadline is set only to ensure that learners **do not fall behind**, to maintain **consistent progress**, and to promote **healthy competition** while ensuring everyone improves day by day.
+
+Make your learning journey a **marathon, not a race**.
+
+
+---
+
+## 14. Viva
+
+**14.1 How will the viva/evaluation process be conducted?**  
+Each intern is required to **select at least 5 evaluators (other interns)** who will evaluate their work, primarily based on their **case studies** solutions. Hence, make sure you are completed with all the Case studies before you evaluate someone or get evaluated yourself.
+
+**14.2 What is the role of the evaluators?**  
+The evaluators are expected to be **sincere** and give their **best effort** while evaluating the case studies.  
+The evaluation is mainly an **endorsement of learning**, not a formal grading process.
+
+**14.3 Will the evaluations be verified?**  
+Yes. The team will **randomly second-check** evaluated case studies.  
+If any **anomaly** is detected, the following actions may be taken:
+- Re-evaluation of the evaluated intern’s case studies  
+- Re-evaluation of the evaluator’s own case studies  
+- Re-evaluation of all case studies previously evaluated by that evaluator  
+
+To avoid such an **anomaly cascade**, choose your evaluators carefully.
+
+**14.4 Can two interns evaluate each other?**  
+No. If **A evaluates B**, then **B cannot evaluate A**.
+
+**14.5 Can I choose evaluators from my own institute?**  
+Preferably, **no**.  
+Choosing evaluators from your own institute may raise a **first level of suspicion**. While this is **discouraged**, it is **not enforced as a strict rule**.
+
+**14.6 How many evaluators do I need?**  
+You need **exactly 5 evaluators to endorse you**.  
+If any selected person is unwilling to endorse you, you must **find a replacement**.  
+Overall, you must ensure that **at least 5 people endorse your learning**.
+
+**14.7 What does the endorsement involve?**  
+Your evaluators will fill out a **Google Form** stating that they **endorse your learning**.  
+- There is **no rating or scoring**
+- Evaluators may add **optional comments**
+- Endorsements will be submitted through a form that will be **displayed on the dashboard**
+
+**14.8 When should the evaluation be done?**  
+It is recommended to evaluate **only after completing all case studies** or once you are **confident in the concepts**.
+
+**14.9 Do we need to record our evaluation interactions?**  
+No. You only need to **interact and endorse** the person.  
+How you conduct the interaction is **entirely up to you**. No recordings are required.
+
+**14.10 Can I appeal an endorsement decision?**  
+No.  
+This is intentional, as interns are expected to choose **trustworthy evaluators** who will endorse them **honestly and fairly**.
+
+**14.11 Can I evaluate more than 5 people?**  
+Yes.  
+You must be evaluated by **exactly 5 people**, but you may **evaluate as many interns as you wish**.
+
+**14.12 What if I want to remove an endorsement or someone endorses me without my consent?**  
+You will be provided with a **separate form** that allows you to **remove an endorsement** made by a particular person.
+
+**14.13 What if I evaluate many people but struggle to find evaluators for myself?**  
+The teaching team **appreciates interns who evaluate many peers**.  
+In such cases, **teaching team members** can be requested to act as your evaluators.
+
+Additionally, **Silver and Golden Tickets** will be issued to selected interns.  
+- Interns receiving these tickets **do not need peer evaluation**
+- They will be **directly evaluated by Sudarshan sir and the teaching team**
